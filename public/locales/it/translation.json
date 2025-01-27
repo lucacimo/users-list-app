@@ -1,0 +1,26 @@
+{
+  "filters": {
+    "name": {
+      "label": "Nome",
+      "placeholder": "Cerca nome"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Cerca email"
+    },
+    "status": {
+      "label": "Stato",
+      "inactive": "Inattivo",
+      "active": "Attivo"
+    },
+    "gender": {
+      "label": "Sesso",
+      "male": "Uomo",
+      "female": "Donna"
+    }
+  },
+  "detail": {
+    "back": "Indietro",
+    "error": "Nessun utente trovato. Scegliere un utente dalla lista."
+  }
+}

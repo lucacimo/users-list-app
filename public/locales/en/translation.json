@@ -1,0 +1,26 @@
+{
+  "filters": {
+    "name": {
+      "label": "Name",
+      "placeholder": "Search name"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Search email"
+    },
+    "status": {
+      "label": "Status",
+      "inactive": "Inactive",
+      "active": "Active"
+    },
+    "gender": {
+      "label": "Gender",
+      "male": "Male",
+      "female": "Female"
+    }
+  },
+  "detail": {
+    "back": "Back",
+    "error": "No user data found. Please select a user from the list."
+  }
+}
