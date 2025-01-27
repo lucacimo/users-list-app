@@ -14,7 +14,7 @@ const UserDetail = () => {
           &larr; {t("detail.back")}
         </Link>
         <div className="w-full bg-white p-8">
-          <p className="text-red-500 mb-4">{t("details.error")}</p>
+          <p className="text-red-500 mb-4">{t("detail.error")}</p>
         </div>
       </Page>
     );
